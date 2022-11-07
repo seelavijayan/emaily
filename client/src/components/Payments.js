@@ -11,7 +11,7 @@ class Payments extends Component {
                 name="Emaily"
                 description="$5 for 5 email credits"
                 amount={500}
-                currency='inr'
+                currency='INR'
                 token={token => this.props.handleTokenAction(token)}
                 stripeKey={process.env.REACT_APP_STRIPE_PUBLISHABLE_KEY}
             >
