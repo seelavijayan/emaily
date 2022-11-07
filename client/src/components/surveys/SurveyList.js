@@ -18,8 +18,8 @@ class SurveyList extends Component {
                         <p className='right'>Sent On : {new Date(survey.dateSent).toLocaleDateString()}</p>
                     </div>
                     <div className='card-action'>
-                        <a href="#">Yes : {survey.yes}</a>
-                        <a href="#">No : {survey.no}</a>
+                        <a href="/">Yes : {survey.yes}</a>
+                        <a href="/">No : {survey.no}</a>
                     </div>
                 </div>
             );
@@ -29,7 +29,7 @@ class SurveyList extends Component {
     render() {
         return (
             <div>
-                {this.renderSurveys()};
+                {this.renderSurveys()}
             </div>
         );
     };
