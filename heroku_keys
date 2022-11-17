@@ -1,0 +1,16 @@
+COOKIE_KEY qwertyuiopasdfghjklzxcvbnm
+
+GOOGLE_PROD_ID 813839914875-rcpdus3s4vc7ml2lcfmn6i8c4v8m46ub.apps.googleusercontent.com
+
+GOOGLE_PROD_SECRET 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
+
+MONGO_PROD_URL mongodb+srv://svijayan:MLMGLy8tzaUxo2Bh@cluster0.tis2nxg.mongodb.net/emaily-prod?retryWrites=true&w=majority
+
+REDIRECT_DOMAIN 
+
+SEND_GRID_KEY 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
+
+STRIPE_PUBLISHABLE_KEY pk_test_51Lt7gcSGA9J4Xg5J9ANx4mSUtyMnBFGTWZrenRW5kgTe453CY8jIdjxfq2v4x0DhBuzIN5eKu0Pib0HAgA4GnFME00Xx3vqw31
+
+STRIPE_SECRET_KEY sk_test_51Lt7gcSGA9J4Xg5JCiPjyhGo9LSXxrhdiYkiZBIYarO9TpMT926LdhRltxcutDEHs4hS43vuYd2cFBiSBlNok6Kn00dHp3KYV0
+
